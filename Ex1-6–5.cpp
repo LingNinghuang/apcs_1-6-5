@@ -10,4 +10,5 @@ int main(){
     int d, e, f;
     d = e = f = 69;
     printf("%d",d + e + f);
+    return 0;
 }
